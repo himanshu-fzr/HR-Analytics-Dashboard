@@ -70,7 +70,7 @@ Using this dashboard, users can:
 4. Use slicers and filters to explore insights
 ----
 📷 Dashboard Preview
-![Uploading image.png…]()
+images/Hr Dashboard.jpeg
 
 ----
 📚 Learning Purpose
