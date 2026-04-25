@@ -33,22 +33,35 @@ The dashboard provides the following insights:
 The dataset includes the following fields:
 
 • Employee ID
+
 • Age
+
 • Gender
+
 • Department
+
 • Job Role
+
 • Education Field
+
 • Salary
+
 • Years at Company
+
 • Attrition Status
 ----
 🛠 Tools & Techniques Used
 
 • Microsoft Excel
+
 • Pivot Tables & Pivot Charts
+
 • Slicers (Interactive Filters)
+
 • Data Cleaning & Transformation
+
 • Dashboard Design & Visualization
+
 • Conditional Formatting
 ----
 📈 Dashboard Components
@@ -56,8 +69,11 @@ The dataset includes the following fields:
 The Excel file includes:
 
 • Dashboard – Main interactive visualization
+
 • Raw Data Sheet – Source dataset
+
 • Pivot Tables – Backend calculations
+
 • Charts & Graphs – Visual insights
 ----
 🎯 Key Insights
@@ -65,16 +81,23 @@ The Excel file includes:
 Using this dashboard, users can:
 
 • Identify departments with high attrition rates
+
 • Analyze salary vs attrition relationship
+
 • Understand employee demographics trends
+
 • Track retention patterns over years
+
 • Compare job role performance and risk
 ----
 📌 How to Use
 
 1. Download the Excel file from this repository
+
 2. Open in Microsoft Excel (2016 or later recommended)
+
 3. Go to the Dashboard sheet
+
 4. Use slicers and filters to explore insights
 ----
 📷 Dashboard Preview
@@ -88,8 +111,11 @@ Using this dashboard, users can:
 This project is ideal for:
 
 • Practicing Data Analysis in Excel
+
 • Learning Dashboard Design
+
 • Understanding HR Metrics & KPIs
+
 • Building a Data Analyst Portfolio Project
 ----
 👤 Author
