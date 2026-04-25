@@ -18,9 +18,13 @@ The dashboard provides the following insights:
 • 👨‍💼 Attrition by Job Role – Identify high-risk roles.
 
 • 💰 Attrition by Salary Slab – Analyze salary impact on attrition.
+
 • 📊 Attrition by Age Group – Workforce age distribution insights.
+
 • ⏳ Years at Company Analysis – Retention patterns over time.
+
 • 🚻 Attrition by Gender – Gender-based attrition comparison.
+
 • 🎯 Department Filters (Slicers) – Interactive data exploration.
 ----
 
@@ -75,7 +79,8 @@ Using this dashboard, users can:
 ----
 📷 Dashboard Preview
 
-images/Hr_Dashboard.jpeg
+<img src="Hr_Dashboard.jpeg" alt="Alt text for the image" width="desired_width">
+
 
 ----
 📚 Learning Purpose
