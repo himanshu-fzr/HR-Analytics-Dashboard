@@ -9,15 +9,19 @@ The dashboard helps organizations monitor employee attrition, demographics, sala
 🚀 Key Features
 The dashboard provides the following insights:
 
-• 👥 Total Employee Count – Overall workforce size
-• 🔁 Attrition Analysis – Total attrition & attrition rate
-• 🎓 Attrition by Education – Understand employee background trends
-• 👨‍💼 Attrition by Job Role – Identify high-risk roles
-• 💰 Attrition by Salary Slab – Analyze salary impact on attrition
-• 📊 Attrition by Age Group – Workforce age distribution insights
-• ⏳ Years at Company Analysis – Retention patterns over time
-• 🚻 Attrition by Gender – Gender-based attrition comparison
-• 🎯 Department Filters (Slicers) – Interactive data exploration
+• 👥 Total Employee Count – Overall workforce size.
+
+• 🔁 Attrition Analysis – Total attrition & attrition rate.
+
+• 🎓 Attrition by Education – Understand employee background trends.
+
+• 👨‍💼 Attrition by Job Role – Identify high-risk roles.
+
+• 💰 Attrition by Salary Slab – Analyze salary impact on attrition.
+• 📊 Attrition by Age Group – Workforce age distribution insights.
+• ⏳ Years at Company Analysis – Retention patterns over time.
+• 🚻 Attrition by Gender – Gender-based attrition comparison.
+• 🎯 Department Filters (Slicers) – Interactive data exploration.
 ----
 
 📂 Dataset Information
@@ -71,7 +75,7 @@ Using this dashboard, users can:
 ----
 📷 Dashboard Preview
 
-Hr Dashboard.jpeg
+images/Hr_Dashboard.jpeg
 
 ----
 📚 Learning Purpose
