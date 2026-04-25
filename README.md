@@ -3,6 +3,7 @@
 📌 Project Overview
 
 This project presents an interactive HR Analytics Dashboard built using Microsoft Excel to analyze employee data and uncover key workforce insights.
+
 The dashboard helps organizations monitor employee attrition, demographics, salary trends, and job roles, enabling data-driven HR decisions.
 ------
 
