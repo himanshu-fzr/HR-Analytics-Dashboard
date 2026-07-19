@@ -1,129 +1,51 @@
-📊 HR Analytics Dashboard (Excel)
+# HR Analytics Dashboard (Excel)
 
-📌 Project Overview
+An interactive HR Analytics Dashboard built in Microsoft Excel to analyze employee data and uncover workforce insights — attrition drivers, salary trends, demographics, and retention patterns.
 
-This project presents an interactive HR Analytics Dashboard built using Microsoft Excel to analyze employee data and uncover key workforce insights.
+## Overview
 
-The dashboard helps organizations monitor employee attrition, demographics, salary trends, and job roles, enabling data-driven HR decisions.
+Built for organizations to monitor employee attrition and understand what drives it, enabling data-driven HR decisions instead of guesswork.
 
-------
+## Key Insights
 
-🚀 Key Features
-The dashboard provides the following insights:
+- Analyzed **1,480** employee records across departments (HR, Research & Development, Sales)
+- Overall attrition rate: **16%** (238 employees)
+- **Salary is the strongest attrition driver** — 68% of all attrition (163 of 238 employees) came from the lowest salary slab (up to 5K), dropping sharply as salary increased
+- **Laboratory Technician** was the highest-attrition role (62 employees, ~26% of all attrition), followed by Sales Executive (58) and Research Scientist (47)
+- Attrition peaked in the **26-35 age group** (116 employees) and within the **first year at the company** (59 employees) — signaling a new-hire retention gap
+- Male employees showed higher attrition than female employees (151 vs. 87)
 
-• 👥 Total Employee Count – Overall workforce size.
+## Dashboard Features
 
-• 🔁 Attrition Analysis – Total attrition & attrition rate.
+- **Fully dynamic** — all KPI cards and charts are formula-driven and update live when filters/slicers change, not static snapshots
+- KPI cards: total employees, attrition count, attrition rate, average age, average salary, average tenure
+- Attrition breakdown by education, job role, salary slab, age group, years at company, and gender
+- Interactive department slicers (HR, R&D, Sales) — selecting a department instantly recalculates every KPI and chart
+- Job-role matrix table showing attrition distribution across departments
 
-• 🎓 Attrition by Education – Understand employee background trends.
+## Dataset
 
-• 👨‍💼 Attrition by Job Role – Identify high-risk roles.
+Employee ID, Age, Gender, Department, Job Role, Education Field, Salary, Years at Company, Attrition Status
 
-• 💰 Attrition by Salary Slab – Analyze salary impact on attrition.
+## Tools & Techniques
 
-• 📊 Attrition by Age Group – Workforce age distribution insights.
+Microsoft Excel · Pivot Tables & Pivot Charts · Slicers · Dynamic Formulas (live KPI calculations) · Data Cleaning & Transformation · Conditional Formatting
 
-• ⏳ Years at Company Analysis – Retention patterns over time.
+## File Structure
 
-• 🚻 Attrition by Gender – Gender-based attrition comparison.
+- **Dashboard** — main interactive visualization
+- **Raw Data** — source dataset
+- **Pivot Tables** — backend calculations
+- **Charts & Graphs** — supporting visuals
 
-• 🎯 Department Filters (Slicers) – Interactive data exploration.
-----
-
-📂 Dataset Information
-
-The dataset includes the following fields:
-
-• Employee ID
-
-• Age
-
-• Gender
-
-• Department
-
-• Job Role
-
-• Education Field
-
-• Salary
-
-• Years at Company
-
-• Attrition Status
-----
-🛠 Tools & Techniques Used
-
-• Microsoft Excel
-
-• Pivot Tables & Pivot Charts
-
-• Slicers (Interactive Filters)
-
-• Data Cleaning & Transformation
-
-• Dashboard Design & Visualization
-
-• Conditional Formatting
-----
-📈 Dashboard Components
-
-The Excel file includes:
-
-• Dashboard – Main interactive visualization
-
-• Raw Data Sheet – Source dataset
-
-• Pivot Tables – Backend calculations
-
-• Charts & Graphs – Visual insights
-----
-🎯 Key Insights
-
-Using this dashboard, users can:
-
-• Identify departments with high attrition rates
-
-• Analyze salary vs attrition relationship
-
-• Understand employee demographics trends
-
-• Track retention patterns over years
-
-• Compare job role performance and risk
-----
-📌 How to Use
+## How to Use
 
 1. Download the Excel file from this repository
+2. Open in Microsoft Excel (2016 or later)
+3. Go to the **Dashboard** sheet
+4. Use slicers and filters to explore attrition by department, role, salary, and more
 
-2. Open in Microsoft Excel (2016 or later recommended)
+## Author
 
-3. Go to the Dashboard sheet
-
-4. Use slicers and filters to explore insights
-----
-📷 Dashboard Preview
-
-<img src="Hr_Dashboard.jpeg" alt="Alt text for the image" width="desired_width">
-
-
-----
-📚 Learning Purpose
-
-This project is ideal for:
-
-• Practicing Data Analysis in Excel
-
-• Learning Dashboard Design
-
-• Understanding HR Metrics & KPIs
-
-• Building a Data Analyst Portfolio Project
-----
-👤 Author
-
-Himanshu Sharma
-----
-⭐ Support
-
-If you found this project useful, feel free to star ⭐ the repository and share your feedback!
+**Himanshu Sharma**
+📧 himanshush0013@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/himanshusharmafzr) · 🐙 [GitHub](https://github.com/himanshu-fzr)
